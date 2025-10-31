@@ -88,5 +88,4 @@ VITE_CONTRACT_ID=<YOUR_DEPLOYED_CONTRACT_ID>
 
 
 Replace <YOUR_DEPLOYED_CONTRACT_ID> with your real contract hash (e.g., CB5JZL...EJ3H).
-
-
+Add Your Contract_ID in config.js under the src/soroban folder
